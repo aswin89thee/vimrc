@@ -138,7 +138,7 @@ nnoremap <Leader>sp :OmniSharpStopServer<CR>
 " END COPIED BLOCK FROM https://github.com/OmniSharp/omnisharp-vim
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-set encoding=utf-87
+set encoding=utf-8
 
 "" Customizing CtrlP plugin
 "let g:ctrlp_cache_dir = $HOME . '/.cache/ctrlp'
